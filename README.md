@@ -24,13 +24,13 @@
 
 # 快速使用 
 
-1. 在乐柯柯开放平台[注册][1]成功之后[申请应用][2]
+1. 在乐柯柯开放平台[注册][4]成功之后[申请应用][5]
 2. 应用审批通过之后，添加对应的功能，并签约成功
 3. 配置秘钥，设置接口加签方式
 4. 使用SDK接入
 
-[1]: http://open.ccsn.cn/login/reg
-[2]: http://lkkopen.ccsn.cn/admin/appcore/add.html
+[4]: http://open.ccsn.cn/login/reg
+[5]: http://lkkopen.ccsn.cn/admin/appcore/add.html
 
 # API文档
 
@@ -62,11 +62,11 @@
 
 # 下载
 
-- [github下载][1]
-- [jar包下载][2]
+- [github下载][6]
+- [jar包下载][7]
 
-[1]: https://github.com/lkkccsncom/lkk-java-sdk/archive/master.zip
-[2]: https://github.com/lkkccsncom/lkk-java-sdk/shop-sdk-0.0.1.jar
+[6]: https://github.com/lkkccsncom/lkk-java-sdk/archive/master.zip
+[7]: https://github.com/lkkccsncom/lkk-java-sdk/shop-sdk-0.0.1.jar
 
 # 代码示例
 
