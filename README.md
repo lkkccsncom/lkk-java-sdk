@@ -27,7 +27,7 @@
 1. 在乐柯柯开放平台[注册][4]成功之后[申请应用][5]
 2. 应用审批通过之后，添加对应的功能，并签约成功
 3. 配置秘钥，设置接口加签方式
-4. 使用SDK接入
+4. 通过生成的APPID(APP_ID),乐柯柯平台生成的公钥(PUB_KEY)和用户自己填入的公钥(PRI_KEY)使用SDK接入
 
 [4]: http://open.ccsn.cn/login/reg
 [5]: http://lkkopen.ccsn.cn/admin/appcore/add.html
