@@ -66,7 +66,7 @@
 - [jar包下载][7]
 
 [6]: https://github.com/lkkccsncom/lkk-java-sdk/archive/master.zip
-[7]: http://lkkopen.ccsn.cn/open/document/commonSrc/sdkDownload
+[7]: http://download.ccsn.cn/sdk/shop-sdk-0.0.1.jar
 
 # 代码示例
 
